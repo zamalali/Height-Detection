@@ -1,5 +1,5 @@
-#Height Detection using opencv and mediapipe in real time
-# Height Detection of Human in Real time
+#Height Detection using opencv and mediapipe in real time with adaptive guide
+# Height Detection of Human in Real time with adaptive Guide
 import cv2 as cv
 import mediapipe as mp
 from playsound import playsound
