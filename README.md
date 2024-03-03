@@ -10,6 +10,11 @@
 - Automated voice instructions for user guidance.
 - Calibration using a reference image with a known distance.
 
+## Demo
+
+Check out the demonstration of the project on YouTube to see how it works in action:          [Output Video](https://www.youtube.com/watch?v=TGIpzLwkKLk).
+
+
 ## Prerequisites
 
 Ensure your system meets the following requirements:
