@@ -3,6 +3,10 @@
 ## Overview
 
 "Height Detection Model" is an application that leverages computer vision and pose estimation technologies to measure human height using a standard webcam. This project combines OpenCV for image processing and MediaPipe for accurate pose estimation, providing a non-intrusive way to measure height digitally.
+<div align="center">
+  <img src="images/height.png" alt="Image description" width="600"/>
+</div>
+
 
 ## Features
 
