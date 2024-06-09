@@ -7,6 +7,13 @@
   <img src="images/height.png" alt="Image description" width="600"/>
 </div>
 
+ **To estimate distance and set a calibration factor, a depth estimation model must be used** 
+**In this case, we are using  [Depth-anything](https://huggingface.co/LiheYoung/depth-anything-small-hf),  an open-source Hugging Face model.**
+
+<div align="center">
+  <img src="images/depth-map.png" alt="Image description" width="600"/>
+</div
+
 
 ## Features
 
